@@ -60,7 +60,7 @@ export function generateMobiPlayUrlParams(originUrl: String, thailand = false) {
     if (thailand) {
         theRequest.area = 'th';
         theRequest.appkey = '7d089525d3611b1c';
-        theRequest.build = '1001310';
+        theRequest.build = '1080003';
         theRequest.mobi_app = 'bstar_a';
         theRequest.platform = 'android';
     } else {
